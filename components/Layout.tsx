@@ -92,19 +92,19 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <div className="p-4 border-b border-[var(--sidebar-border)] flex items-center justify-between flex-shrink-0">
           {!isCollapsed ? (
             <h2 className="text-lg font-extrabold flex items-center">
-              <UtensilsCrossed className="mr-2 h-6 w-6" />
+              <img src="/logo.png" alt="VersaForge ERP Logo" className="mr-2 h-6 w-6" />
               VersaForge ERP
             </h2>
           ) : (
             <div className="flex justify-center w-full">
-              <UtensilsCrossed className="h-6 w-6" />
+              <img src="/logo.png" alt="VersaForge ERP Logo" className="w-6 h-6 scale-150" />
             </div>
           )}
           <Button
             variant="ghost"
             size="icon"
             onClick={toggleSidebar}
-            className="h-6 w-6 flex-shrink-0"
+            className="h-3 w-3 flex-shrink-0"
           >
             {isCollapsed ? (
               <ChevronRight className="h-4 w-4" />
