@@ -8,8 +8,8 @@ import { ToastProvider } from "@/components/ui/toast";
 const inter = Inter({ subsets: ["latin"],  variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Ma Ma Beignet Dashboard",
-  description: "Custom dashboard for Ma Ma Beignet by Versalabs",
+  title: "VersaForge ERP",
+  description: "Custom ERP System by Versalabs",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
