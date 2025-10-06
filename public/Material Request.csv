@@ -1,0 +1,8 @@
+"ID","Series","Purpose","Company","Transaction Date","ID (Items)","Item Code (Items)","Quantity (Items)","Required By (Items)","UOM (Items)", "Warehouse (Items)"
+1,MAT-MR-.YYYY.-,Manufacture,Ma beignet,2024-03-01,1,MB-RAW-FLW-25KG,5,2024-03-05,Bag,"HQ Warehouse - Bole - Ma-BeignetD"
+2,MAT-MR-.YYYY.-,Manufacture,Ma beignet,2024-03-01,2,MB-RAW-SUG-50KG,2,2024-03-05,Bag,"HQ Warehouse - Bole - Ma-BeignetD"
+3,MAT-MR-.YYYY.-,Manufacture,Ma beignet,2024-03-01,3,MB-RAW-BUT-1KG,20,2024-03-05,Kg,"HQ Warehouse - Bole - Ma-BeignetD"
+4,MAT-MR-.YYYY.-,Manufacture,Ma beignet,2024-03-01,4,MB-RAW-YEA-500G,10,2024-03-05,g,"HQ Warehouse - Bole - Ma-BeignetD"
+5,MAT-MR-.YYYY.-,Manufacture,Ma beignet,2024-03-01,5,MB-PKG-PBAG-01,200,2024-03-05,Pc,"HQ Warehouse - Bole - Ma-BeignetD"
+6,MAT-MR-.YYYY.-,Manufacture,Ma beignet,2024-03-01,6,MB-PKG-LBL-ROLL,5,2024-03-05,Roll,"HQ Warehouse - Bole - Ma-BeignetD"
+
